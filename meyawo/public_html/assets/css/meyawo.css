@@ -11286,7 +11286,12 @@ p {
 }
 
 .pricing-wrapper .pricing-card-header .pricing-card-icon {
-  width: 70px;
+  width: 150px;
+  margin-bottom: 25px;
+}
+
+#audio{
+  width: 75px;
   margin-bottom: 25px;
 }
 
