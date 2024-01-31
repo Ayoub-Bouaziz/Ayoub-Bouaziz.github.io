@@ -11258,6 +11258,8 @@ p {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+  flex-wrap: wrap;
+  display: flex;
 }
 
 .pricing-wrapper .pricing-card {
@@ -12231,4 +12233,9 @@ pre .code {
 
 .section-lg {
   padding: 100px 0 !important;
+}
+
+.carre{
+  width:50%;
+  display: inline-block;
 }
